@@ -1,6 +1,7 @@
-.cont_width{margin-bottom:40px; margin-top: 40px; background-color: #feeae9;}
-.shoe_width{margin-bottom:40px; margin-top: 40px; height: 300px;}
-.pricecol{color: aquamarine;}
+.cont_width{background-color: #feeae9;}
+.container{margin-bottom:40px; margin-top: 40px; }
+
+.pricecol{color: white; background-color: black; width: 300px;border-radius: 10px; padding: 10px;}
 .carousel-item{padding: 20px 40px;}
 
 .cat1{
@@ -18,3 +19,9 @@
 .categories h1{
     color: white;
 }
+.col img{
+    width: 390px;
+    height: 250px;
+    border: 1px solid red;
+}
+.bgscrol{background-color: coral; font-size: 20px;}
