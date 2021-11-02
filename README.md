@@ -1,0 +1,1 @@
+# PaidCourse_Journal
